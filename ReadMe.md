@@ -1,6 +1,4 @@
-<div align="center">
 # 🏏 Stump'd - Cricket Challenge App  
-</div>
 
 ## 🚀 Features
 
